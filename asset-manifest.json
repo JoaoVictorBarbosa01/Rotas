@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.49b5e169.css",
-    "main.js": "/static/js/main.134f528e.js",
-    "index.html": "/index.html",
-    "main.49b5e169.css.map": "/static/css/main.49b5e169.css.map",
-    "main.134f528e.js.map": "/static/js/main.134f528e.js.map"
+    "main.css": "/ROTAS/static/css/main.49b5e169.css",
+    "main.js": "/ROTAS/static/js/main.134f528e.js",
+    "index.html": "/ROTAS/index.html",
+    "main.49b5e169.css.map": "/ROTAS/static/css/main.49b5e169.css.map",
+    "main.134f528e.js.map": "/ROTAS/static/js/main.134f528e.js.map"
   },
   "entrypoints": [
     "static/css/main.49b5e169.css",
